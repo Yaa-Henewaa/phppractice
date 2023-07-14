@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    color: white;
+   
+
+    
+}
+.fn{
+    margin: 20px;
+}
+.ln{
+    margin: 20px;
+}
+.fp{
+    margin: 20px;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+.btn{
+    border-radius: 10px;
+    background-color: blue;
+}

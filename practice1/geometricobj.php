@@ -18,7 +18,7 @@
         if($filled != null){
             $this->filled = $filled;
         }
-     }
+     } 
      public function getColor():string{
         return $this->color;
 
